@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.dist/
+.build/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data / artifacts
+data/processed/
+data/splits/
+outputs/
+*.pt
+*.pkl
+*.joblib
+*.csv
+
+# OS
+.DS_Store
